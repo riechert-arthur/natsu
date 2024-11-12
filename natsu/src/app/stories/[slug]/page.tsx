@@ -8,7 +8,7 @@ export default async function Page({
   const rawSlug = (await params).slug
   const slug = decodeURIComponent(rawSlug)
 
-  const html = fs.readFileSync(`stories/${ slug }.html`, 'utf-8')
+  const html = fs.readFileSync(`public/stories/${ slug }.html`, 'utf-8')
 
   return (
     <div 

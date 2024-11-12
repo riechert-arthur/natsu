@@ -1,0 +1,78 @@
+[
+  {
+    "id": 0,
+    "title": "My Favorite Park",
+    "href": "stories/My Favorite Park",
+    "description": "A story about Yumi's favorite park where she enjoys the colorful flowers, clean lake, and quiet atmosphere.",
+    "imageUrl": "/stories/images/My Favorite Park.png",
+    "date": "Nov 12, 2024",
+    "datetime": "2024-11-12",
+    "category": {
+      "title": "Adjectives",
+      "href": ""
+    },
+    "author": {
+      "name": "Arthur Riechert",
+      "role": "Founder",
+      "href": "",
+      "imageUrl": ""
+    }
+  },
+  {
+    "id": 1,
+    "title": "A Day in Tokyo",
+    "href": "/stories/A Day in Tokyo",
+    "description": "A descriptive journey through Tokyo exploring various sights and sounds using N5 level adjectives.",
+    "imageUrl": "/stories/images/A Day in Tokyo.png",
+    "date": "Nov 12, 2024",
+    "datetime": "2024-11-12",
+    "category": {
+      "title": "Adjectives",
+      "href": ""
+    },
+    "author": {
+      "name": "Arthur Riechert",
+      "role": "Founder",
+      "href": "",
+      "imageUrl": ""
+    }
+  },
+  {
+    "id": 2,
+    "title": "A Day at the Park",
+    "description": "Experience a day with Aiko and Ken as they explore the sunny park, enjoy colorful flowers, and have an interesting picnic.",
+    "imageUrl": "/stories/images/A Day at the Park.png",
+    "date": "Nov 12, 2024",
+    "datetime": "2024-11-12",
+    "href": "/stories/A Day at the Park",
+    "category": {
+      "title": "Adjectives",
+      "href": ""
+    },
+    "author": {
+      "name": "Arthur Riechert",
+      "role": "Founder",
+      "href": "",
+      "imageUrl": ""
+    }
+  },
+  {
+    "id": 3,
+    "title": "A Wonderful Day at the Zoo",
+    "href": "/stories/A Wonderful Day at the Zoo",
+    "description": "Ken and Hana visit a colorful zoo with many tall animals, soft rabbits, and loud lions. They enjoy the happy adventure and a delicious lunch.",
+    "imageUrl": "/stories/images/A Wonderful Day at the Zoo.png",
+    "date": "Nov 12, 2024",
+    "datetime": "2024-11-12",
+    "category": {
+      "title": "Adjectives",
+      "href": ""
+    },
+    "author": {
+      "name": "Arthur Riechert",
+      "role": "Founder",
+      "href": "",
+      "imageUrl": ""
+    }
+  }
+]
